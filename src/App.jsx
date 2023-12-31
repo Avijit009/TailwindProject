@@ -1,4 +1,3 @@
-import React from "react";
 import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReview, Subscribe, Footer
 } from "./sections";
 import Nav from "./components/Nav";
